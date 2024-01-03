@@ -1,0 +1,22 @@
+{
+    "name": "leopersan/calendario_tagmar",
+    "autoload": {
+        "psr-4": {
+            "LeoPersan\\CalendarioTagmar\\": "src/",
+            "LeoPersan\\CalendarioTagmar\\Tests\\": "tests/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Leonardo Persan",
+            "email": "leopso1990@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
